@@ -138,3 +138,13 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
